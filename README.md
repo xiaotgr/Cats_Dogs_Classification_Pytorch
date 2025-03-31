@@ -10,7 +10,7 @@
 
 # 如何安装？
 ```
-git clone https://github.com/xiaoaug/Cats_Dogs_Classification_Pytorch.git  # 下载
+git clone https://github.com/xiaotgr/Cats_Dogs_Classification_Pytorch.git  # 下载
 cd Cats_Dogs_Classification_Pytorch
 pip install -r requirements.txt  # 安装
 ```
